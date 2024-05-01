@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\bin\Debug\net8.0\First.exe
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\bin\Debug\net8.0\First.deps.json
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\bin\Debug\net8.0\First.dll
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\bin\Debug\net8.0\First.pdb
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.sourcelink.json
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.dll
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\refint\First.dll
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.pdb
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Users\user\Desktop\01. Coding\BFS_cs\First\obj\Debug\net8.0\ref\First.dll
