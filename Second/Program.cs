@@ -1,5 +1,34 @@
 ﻿using static System.Console;
 
-WriteLine("Hello World!");
+namespace Second
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Root Map
+            int[] map = 
+            {
+                3, 2, 1,
+                4, 0, 0,
+                0, 0, 0
+            };
 
-// https://www.youtube.com/watch?v=6edibwHBDFk
+            var init = new Node(map);
+            Search ui = new Search();
+            List<Node> res = ui.BreadthFirstSearch(init);
+            
+            Write("Printing Path. yes or no : ");
+            string enter = ReadLine();
+            if (enter == "yes")
+            {   
+                WriteLine();
+                foreach (Node m in res)
+                {
+                    m.printMap();
+                }
+                ReadKey();
+            }
+        }
+    }
+}
