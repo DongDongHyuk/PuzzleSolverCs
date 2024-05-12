@@ -9,7 +9,9 @@ namespace Second
         {
             List<Node> path = new List<Node>();
             List<Node> que = new List<Node>();      // Queue
+
             List<Node> mkd = new List<Node>();      // Visited(Marked)
+            Dictionary<Node, Node> mkd_dict = new Dictionary<Node, Node>();
 
             que.Add(Root);
             bool isGoal = false;
@@ -47,7 +49,6 @@ namespace Second
         // Tracing
         public List<Node> pathTrace(Node n)
         {
-            WriteLine("Tracing Path...");
             List<Node> li = new List<Node>();
             Node current = n;
             li.Add(current);

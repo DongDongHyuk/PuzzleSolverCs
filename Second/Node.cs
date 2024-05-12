@@ -94,9 +94,9 @@ namespace Second
             var b = true;
             var GoalMap = new int[]
             {
-                1, 2, 3,
-                4, 0, 0,
-                0, 0, 0
+                0, 1, 2,
+                3, 4, 5,
+                6, 7, 8
             };
 
             for (int i = 0; i < map.Length; i ++)
@@ -105,6 +105,17 @@ namespace Second
                     b = false;
             }
             return b;
+
+            // int m = map[0];
+
+            // for (int i = 0; i < map.Length; i++)
+            // {
+            //     if (m > map[i])
+            //         b = false;
+            //     m = map[i];
+            // }            
+
+            // return b;
         }
 
     }
