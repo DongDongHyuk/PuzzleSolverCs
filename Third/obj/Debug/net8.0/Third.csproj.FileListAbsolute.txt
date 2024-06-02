@@ -1,0 +1,15 @@
+c:\Users\user\Desktop\BFS_cs\Third\bin\Debug\net8.0\Third.exe
+c:\Users\user\Desktop\BFS_cs\Third\bin\Debug\net8.0\Third.deps.json
+c:\Users\user\Desktop\BFS_cs\Third\bin\Debug\net8.0\Third.runtimeconfig.json
+c:\Users\user\Desktop\BFS_cs\Third\bin\Debug\net8.0\Third.dll
+c:\Users\user\Desktop\BFS_cs\Third\bin\Debug\net8.0\Third.pdb
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.AssemblyInfo.cs
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.sourcelink.json
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.dll
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\refint\Third.dll
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.pdb
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\Third.genruntimeconfig.cache
+c:\Users\user\Desktop\BFS_cs\Third\obj\Debug\net8.0\ref\Third.dll
