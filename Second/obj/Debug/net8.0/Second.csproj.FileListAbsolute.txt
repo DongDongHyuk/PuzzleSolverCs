@@ -13,3 +13,18 @@ C:\Users\user\Desktop\BFS_cs\Second\obj\Debug\net8.0\refint\Second.dll
 C:\Users\user\Desktop\BFS_cs\Second\obj\Debug\net8.0\Second.pdb
 C:\Users\user\Desktop\BFS_cs\Second\obj\Debug\net8.0\Second.genruntimeconfig.cache
 C:\Users\user\Desktop\BFS_cs\Second\obj\Debug\net8.0\ref\Second.dll
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\bin\Debug\net8.0\Second.exe
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\bin\Debug\net8.0\Second.deps.json
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\bin\Debug\net8.0\Second.runtimeconfig.json
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\bin\Debug\net8.0\Second.dll
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\bin\Debug\net8.0\Second.pdb
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.AssemblyInfo.cs
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.sourcelink.json
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.dll
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\refint\Second.dll
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.pdb
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\Second.genruntimeconfig.cache
+C:\Users\user\Desktop\01. Coding\BFS_cs\Second\obj\Debug\net8.0\ref\Second.dll
