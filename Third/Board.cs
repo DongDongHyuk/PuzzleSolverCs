@@ -1,4 +1,3 @@
-
 namespace Third
 {
     class Board
@@ -13,15 +12,9 @@ namespace Third
         public bool isEquals(int[,] m)
         {
             for (int i = 0; i < 3; i ++)
-            {
                 for (int j = 0; j < 3; j ++)
-                {
                     if (this.Map[i,j] != m[i,j])
-                    {
                         return false;
-                    }
-                }
-            }
             return true;
         }
 
@@ -30,13 +23,11 @@ namespace Third
             int res = 0;
             int shift = 0;
             for (int i = 0; i < 3; i++)
-            {
                 for (int j = 0; j < 3; j ++)
                 {
                     shift = (shift + 11) % 21;
                     res = (this.Map[i,j] + 1024) << shift;
                 }
-            }
             return res;
         }
 
@@ -44,16 +35,22 @@ namespace Third
         {
             var other = (Board)obj;
             for (int i = 0; i < 3; i++)
+                for (int j = 0; j < 3; j ++)
+                    if (this.Map[i,j] != other.Map[i,j])
+                        return false;
+            return true;
+        }
+
+        public void printBoard()
+        {
+            for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j ++)
-                {
-                    if (this.Map[i,j] != other.Map[i,j])
-                    {
-                        return false;
-                    }
-                }
+                    Console.Write(Map[i,j] + " ");
+                Console.WriteLine("");
             }
-            return true;
+            Console.WriteLine("");
+
         }
     }
 }

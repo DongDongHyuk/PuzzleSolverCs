@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\BFS_cs\\Third\\Third.csproj": {}
+    "C:\\Users\\user\\Desktop\\01. Coding\\BFS_cs\\Third\\Third.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\BFS_cs\\Third\\Third.csproj": {
+    "C:\\Users\\user\\Desktop\\01. Coding\\BFS_cs\\Third\\Third.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\BFS_cs\\Third\\Third.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\01. Coding\\BFS_cs\\Third\\Third.csproj",
         "projectName": "Third",
-        "projectPath": "C:\\Users\\user\\Desktop\\BFS_cs\\Third\\Third.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\01. Coding\\BFS_cs\\Third\\Third.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\BFS_cs\\Third\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\01. Coding\\BFS_cs\\Third\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
